@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\bin\Debug\TiSelvagem.Repositorio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\bin\Debug\TiSelvagem.Repositorio.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.RepositorioADO.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.RepositorioADO.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.RepositorioADO.csproj.CopyComplete
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.Repositorio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TiSelvagem.Repositorio\obj\Debug\TiSelvagem.Repositorio.pdb

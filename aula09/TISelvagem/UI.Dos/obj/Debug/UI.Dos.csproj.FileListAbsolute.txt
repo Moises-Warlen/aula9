@@ -1,0 +1,14 @@
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\UI.Dos.exe.config
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\UI.Dos.exe
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\UI.Dos.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Aplicacao.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\TiSelvagem.Repositorio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Aplicacao.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\bin\Debug\TiSelvagem.Repositorio.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\obj\Debug\UI.Dos.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\obj\Debug\UI.Dos.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\obj\Debug\UI.Dos.csproj.CopyComplete
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\obj\Debug\UI.Dos.exe
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\UI.Dos\obj\Debug\UI.Dos.pdb

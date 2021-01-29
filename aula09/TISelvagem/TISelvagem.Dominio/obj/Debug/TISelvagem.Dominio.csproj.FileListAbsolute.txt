@@ -1,0 +1,6 @@
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TISelvagem.Dominio\bin\Debug\TISelvagem.Dominio.pdb
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.dll
+C:\Users\Moises\Desktop\claytonFerrary\ASPNETmvcNaPratica\codigo\aula09\TISelvagem\TISelvagem.Dominio\obj\Debug\TISelvagem.Dominio.pdb
